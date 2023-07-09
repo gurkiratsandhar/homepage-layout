@@ -1,0 +1,153 @@
+.section1{
+    background-color: #1f2937;
+    display: flex;
+    flex-direction: column;
+}
+.top.line{
+    display:flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    width: 80%;
+    align-self: center;
+}
+.header.logo{
+    font-size: 24px;
+    font-weight: bolder;
+    color: #f9faf8;
+    font-family: sans-serif;
+}
+.sub.heading span{
+    font-size:18px;
+    color:#e5e7eb;
+    font-family:sans-serif;
+    align-content: center;
+
+} 
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width:80%;
+    align-self: center;
+}
+.main{
+    font-size:48px;
+    font-weight:bolder;
+    color:#f9faf8;
+    font-family: sans-serif;
+    margin:10px
+}
+.sub{
+    font-size:18px;
+    color: #e5e7eb;
+    font-family:sans-serif;
+    margin:10px;
+}
+.sub.heading{
+    display: flex;
+    justify-content: space-around;
+    width:50%;
+    padding-top: 0px;
+   
+ 
+}
+.class{
+    background-color: skyblue;
+}
+.section2{
+    background-color: white;
+}
+.heading{
+    font-size: 36px;
+    font-weight: bolder;
+    color:#1f2937;
+    text-align: center;
+    padding-top: 60px;
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    
+}
+.box div{
+    border:2px solid skyblue;
+    height: 200px;
+    width:200px;
+    border-radius: 4px;
+}
+.box1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    padding-bottom: 60px;
+    width:80%;
+    margin-left: 100px;
+    
+}
+.box1 div{
+align-items: center;
+
+}
+.section3{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction:column;
+    padding: 100px;
+    ;
+}
+.section3 .quote{
+    font-size: 36px;
+    font-family: sans-serif;;
+    font-style: italic;
+    color: #1f2937;
+    width: 70%;
+    align-self: center;
+}
+.section3 .sayer{
+    font-size: 24px;
+    text-align: right;
+    width:80%
+}
+.section4{
+    background-color: white;
+    display: flex;
+}
+.banner{
+    background-color:rgb(45, 45, 247);
+    width:95%;
+    height:20%;
+    margin:40px;
+    border: 2px rgb(45, 45, 247) ;
+    border-radius: 8px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    width:35%;
+    margin:10px;
+}
+.call{
+display:flex;
+flex-direction:column;
+}
+
+strong{
+    font-size:24px;
+    font-weight: bold;
+    color: white;
+}
+.text3{
+    font: size 18px;
+    color:white
+}
+.botton{
+    padding: 5px 25px;
+    background-color: aqua;
+    margin:20px;
+    height:40px
+}
